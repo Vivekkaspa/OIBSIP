@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-This repository contains a machine learning project focused on classifying IRIS flowers into different species using Support Vector Machines (SVM), Logistic Regression (LR) and Decision Tree Classifier algorithms. The goal of this project is to tarin a machine learning model using the Machine learning algorithms that can learn from the petal and sepal measurements of the iris species and classify them .
+This repository contains a machine learning project focused on classifying IRIS flowers into different species using Support Vector Machines (SVM), Logistic Regression (LR) and Decision Tree Classifier algorithms. The goal of this project is to train a machine learning model using the Machine learning algorithms that can learn from the petal and sepal measurements of the iris species and classify them .
 
 ## Project Overview
 
